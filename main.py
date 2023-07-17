@@ -1,3 +1,4 @@
 print('hola mundo')
 print('=)')
-print('me cago en la vida')
+print('como es de buena la vida')
+print('pero me cago en todo')
